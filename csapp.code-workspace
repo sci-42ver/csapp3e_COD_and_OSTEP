@@ -1,9 +1,6 @@
 {
 	"folders": [
     {
-      "path": "../automatic_command/arch_linux_init"
-    },
-    {
       "path": "../../../../../home/hervey_arch/pwndbg"
     },
     {
